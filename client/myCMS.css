@@ -1,0 +1,37 @@
+/* CSS declarations go here */
+/*.logo{
+  margin-bottom: 30px;
+}*/
+body{
+  background-image: url(symphony.png);
+  font-family: 'Roboto', sans-serif;
+}
+.topbar {
+  background: #333;
+  color:#99c00f;
+}
+
+.navbar{
+  background-color: #333;
+  margin-bottom: 0px;
+}
+
+.navbar .nav >li >a{
+  color:white;
+}
+
+.navbar li a:hover, .navbar li a:active{
+  color: #99c00f !important;
+}
+
+.jumbotron{
+  color:white;
+  text-align: center;
+  background-image: url('https://farm9.staticflickr.com/8573/15700312263_60fd816790_h.jpg');
+  background-attachment: fixed;
+}
+
+.panel-heading, .btn{
+  background-color: #99c00f !important;
+  color:white !important;
+}
