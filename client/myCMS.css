@@ -35,3 +35,13 @@ body{
   background-color: #99c00f !important;
   color:white !important;
 }
+
+.logo{
+    text-decoration:none !important;
+    color:#99c00f;
+}
+
+.logo:hover{
+    text-decoration:none !important;
+    color: #99c00f !important;
+}
